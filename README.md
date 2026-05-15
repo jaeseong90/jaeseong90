@@ -67,3 +67,14 @@
 [![Portfolio](https://img.shields.io/badge/📄_포트폴리오_바로가기-Click-blue?style=for-the-badge)](https://jaeseong90.github.io/jaeseong90Folio/)
 
 </div>
+
+---
+
+### 🔗 Other Projects
+
+<div align="center">
+
+[![Toolry](https://img.shields.io/badge/🧰_Toolry-Click-2EA44F?style=for-the-badge)](https://jaeseong90.github.io/Toolry/)
+[![Homepage Game](https://img.shields.io/badge/🎮_Homepage_Game-Click-FF6F61?style=for-the-badge)](https://jaeseong90.github.io/homepage-game/)
+
+</div>
