@@ -22,6 +22,7 @@ Spring Boot 기반 백엔드부터 프론트엔드, 안드로이드까지 다양
 - ⚙️ WEB/WAS 구성, DB/AWS 모니터링, 부하 테스트 등 운영 기반 정립
 - 🗂️ 의료, ERP, SCM, 영업관리, 콜센터, 관제, 물류, IoT 등 다양한 업무 도메인 경험
 - 📜 정보처리기사
+
 ---
 
 ### 🛠️ Tech Stack
@@ -29,11 +30,11 @@ Spring Boot 기반 백엔드부터 프론트엔드, 안드로이드까지 다양
 **Language**
 ![Java](https://img.shields.io/badge/Java-007396?style=flat-square&logo=openjdk&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![C#](https://img.shields.io/badge/C%23-512BD4?style=flat-square&logo=csharp&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-512BD4?style=flat-square&logo=dotnet&logoColor=white)
 ![VB.NET](https://img.shields.io/badge/VB.NET-512BD4?style=flat-square&logo=dotnet&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS-663399?style=flat-square&logo=css&logoColor=white)
 
 **Framework**
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white)
@@ -50,13 +51,13 @@ Spring Boot 기반 백엔드부터 프론트엔드, 안드로이드까지 다양
 
 **Database & Server**
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
-![Oracle](https://img.shields.io/badge/Oracle-F80000?style=flat-square&logo=oracle&logoColor=white)
-![MSSQL](https://img.shields.io/badge/MS--SQL-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white)
+![Oracle](https://img.shields.io/badge/Oracle-F80000?style=flat-square)
+![MSSQL](https://img.shields.io/badge/MS--SQL-CC2927?style=flat-square)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 ![Tomcat](https://img.shields.io/badge/Tomcat-F8DC75?style=flat-square&logo=apachetomcat&logoColor=black)
 ![NGINX](https://img.shields.io/badge/NGINX-009639?style=flat-square&logo=nginx&logoColor=white)
 ![Apache](https://img.shields.io/badge/Apache-D22128?style=flat-square&logo=apache&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonwebservices&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-FF9900?style=flat-square)
 
 **Mobile & Tools**
 ![Android](https://img.shields.io/badge/Android_Native-34A853?style=flat-square&logo=android&logoColor=white)
@@ -72,27 +73,19 @@ Spring Boot 기반 백엔드부터 프론트엔드, 안드로이드까지 다양
 
 | 기간 | 회사 | 역할 |
 |------|------|------|
-| 2019.07 ~ 현재 | **세정아이앤씨** | R&D팀 과장 · Java/Spring Boot 풀스택 · PM/PL/AA |
-| 2015.12 ~ 2018.12 | **맑은샘파트너스** | 개발부 사원 · ASP.NET MVC(VB.NET) · MS-SQL 기반 의료/ERP 시스템 개발 |
+| 2019.07&nbsp;~&nbsp;현재 | **세정아이앤씨** | R&D팀 과장 · Java/Spring Boot 풀스택 · PM/PL/AA |
+| 2015.12&nbsp;~&nbsp;2018.12 | **맑은샘파트너스** | 개발부 사원 · ASP.NET MVC(VB.NET) · MS-SQL 기반 의료/ERP 시스템 개발 |
 
 **최근 프로젝트**
 
 | 기간 | 프로젝트 | 역할 |
 |------|----------|------|
-| 2026.05 ~ 현재 | 지자체 스마트시티 — 폐어망 업사이클링 공급관리(SCM) 시스템 구축 · 전자정부 표준프레임워크 | PL / 개발 |
-| 2026.03 ~ 2026.10 | 사내 영업관리시스템(SalesOn) 구축 · AI 회의록·보고서 초안 생성, 모바일 PWA | 기획·설계·개발 전담 |
-| 2025.11 ~ 2026.06 | 중견 제조기업 ERP · 생산관리(Plant) 시스템 개편 · 공통 컴포넌트, 프론트 프레임워크 | AA |
-| 2024.03 ~ 2025.06 | 세정그룹 정보시스템 개편 · 공통 컴포넌트, API 중계, 운영 가이드 | 기술지원 / 프레임워크 개발 |
+| 2026.05&nbsp;~&nbsp;현재 | 지자체 스마트시티 — 폐어망 업사이클링 공급관리(SCM) 시스템 구축 · 전자정부 표준프레임워크 | PL&nbsp;/&nbsp;개발 |
+| 2026.03&nbsp;~&nbsp;2026.10 | 사내 영업관리시스템(SalesOn) 구축 · AI 회의록·보고서 초안 생성, 모바일 PWA | 기획·설계·개발&nbsp;전담 |
+| 2025.11&nbsp;~&nbsp;2026.06 | 중견 제조기업 ERP · 생산관리(Plant) 시스템 개편 · 공통 컴포넌트, 프론트 프레임워크 | AA |
+| 2024.03&nbsp;~&nbsp;2025.06 | 세정그룹 정보시스템 개편 · 공통 컴포넌트, API 중계, 운영 가이드 | 기술지원&nbsp;/&nbsp;프레임워크&nbsp;개발 |
 
 전체 프로젝트 이력은 [이력서](https://jaeseong90.github.io/jaeseong90Folio/#career)에서 확인할 수 있습니다.
-
----
-
-<div align="center">
-
-[![Resume](https://img.shields.io/badge/📄_이력서_·_포트폴리오_바로가기-Click-blue?style=for-the-badge)](https://jaeseong90.github.io/jaeseong90Folio/)
-
-</div>
 
 ---
 
