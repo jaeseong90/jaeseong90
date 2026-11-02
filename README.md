@@ -70,16 +70,16 @@
 
 | 기간 | 회사 | 역할 |
 |------|------|------|
-| 2019.07&nbsp;~&nbsp;현재 | **세정아이앤씨** | R&D팀 과장 · Java/Spring Boot 풀스택 · PM/PL/AA |
-| 2015.12&nbsp;~&nbsp;2018.12 | **맑은샘파트너스** | 개발부 사원 · ASP.NET MVC(VB.NET)·MS-SQL<br>한의원 CRM/EMR, 한약제제 공정관리, 사내 ERP 개발 |
+| 2019.07&nbsp;~&nbsp;현재 | **세정아이앤씨** | R&D팀 과장 · Java/Spring Boot 풀스택 · PM/PL/AA<br>공공·민간 SI 14건 (PM/PL 5 · AA/기술지원 2 · 개발 7) |
+| 2015.12&nbsp;~&nbsp;2018.12 | **맑은샘파트너스** | 개발부 사원 · ASP.NET MVC(VB.NET)·MS-SQL·Kendo UI<br>한의원 CRM/EMR, 한약제제 공정관리, 사내 ERP 개발 |
 
 **최근 프로젝트**
 
 | 기간 | 프로젝트 | 역할 |
 |------|----------|------|
-| 2026.05&nbsp;~&nbsp;현재 | 지자체 스마트시티 폐어망 업사이클링 SCM 시스템 구축 · 전자정부프레임워크 | PL&nbsp;/&nbsp;개발 |
-| 2026.03&nbsp;~&nbsp;2026.10 | 사내 영업관리시스템(SalesOn) 구축 · AI 회의록·보고서 초안 생성, 모바일 PWA | 기획·설계·개발&nbsp;전담 |
-| 2025.11&nbsp;~&nbsp;2026.06 | 중견 제조기업 ERP/생산관리(Plant) 시스템 개편 · 공통 컴포넌트, 프론트 프레임워크 | AA |
+| 2026.05&nbsp;~&nbsp;현재 | 지자체 스마트시티 폐어망 업사이클링 SCM 시스템 구축 · 전자정부 표준프레임워크 | PL&nbsp;/&nbsp;개발 |
+| 2026.03&nbsp;~&nbsp;2026.10 | 사내 영업관리시스템(SalesOn) 구축 · AI 회의록·주간보고 초안 생성, 모바일 PWA | 기획·설계·개발&nbsp;전담 |
+| 2025.11&nbsp;~&nbsp;2026.06 | 중견 제조기업 ERP/생산관리(Plant) 시스템 개편 · 공통 컴포넌트, 프론트 프레임워크 | AA&nbsp;(아키텍트) |
 | 2024.03&nbsp;~&nbsp;2025.06 | 세정그룹 정보시스템 개편 · 공통 컴포넌트, API 중계, 운영 가이드 | 기술지원 /<br>프레임워크 개발 |
 
 전체 프로젝트 이력은 [이력서](https://jaeseong90.github.io/jaeseong90Folio/#career)에서 확인할 수 있습니다.
@@ -92,6 +92,6 @@
 
 [![Blog](https://img.shields.io/badge/✍️_Blog-Click-24292E?style=for-the-badge)](https://jaeseong90.github.io)
 [![Toolry](https://img.shields.io/badge/🧰_Toolry-Click-2EA44F?style=for-the-badge)](https://jaeseong90.github.io/Toolry/)
-[![Homepage Game](https://img.shields.io/badge/🎮_Homepage_Game-Click-FF6F61?style=for-the-badge)](https://jaeseong90.github.io/homepage-game/)
+[![Games](https://img.shields.io/badge/🎮_Games-Click-FF6F61?style=for-the-badge)](https://jaeseong90.github.io/homepage-game/)
 
 </div>
