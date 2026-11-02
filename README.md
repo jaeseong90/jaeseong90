@@ -71,7 +71,7 @@
 | 기간 | 회사 | 역할 |
 |------|------|------|
 | 2019.07&nbsp;~&nbsp;현재 | **세정아이앤씨** | R&D팀 과장 · Java/Spring Boot 풀스택 · PM/PL/AA |
-| 2015.12&nbsp;~&nbsp;2018.12 | **맑은샘파트너스** | 개발부 사원 · ASP.NET MVC(VB.NET)·MS-SQL 기반 한의원 CRM/EMR, 한약제제 공정관리, 사내 ERP 개발 |
+| 2015.12&nbsp;~&nbsp;2018.12 | **맑은샘파트너스** | 개발부 사원 · ASP.NET MVC(VB.NET)·MS-SQL<br>한의원 CRM/EMR, 한약제제 공정관리, 사내 ERP 개발 |
 
 **최근 프로젝트**
 
